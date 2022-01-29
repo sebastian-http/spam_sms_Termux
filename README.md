@@ -16,9 +16,8 @@ apt install termux-api
 
 apt install unzip
 
-git clone
+git clone https://github.com/sebastian-http/spam_sms_Termux
 
-unzip spam-sms.zip
 
 cd spam-sms
 
